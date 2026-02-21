@@ -1,5 +1,6 @@
 <p align="center">
   <picture>
+    <img alt="PhotinoEx" src="https://raw.githubusercontent.com/PhotinoEx/.github/main/profile/Banner_PhotinoEx.png" width="1280">
   </picture>
 </p>
 
