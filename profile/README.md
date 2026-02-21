@@ -24,7 +24,6 @@ Collection of Libraries that allow for webview usage on the desktop
     - [x] Webview controls
     - [x] Folder/File/Message opening
     - [x] Toast for system
-    - [ ] Tray menu/icon
     - [x] Application Icons
 - [ ] Windows support.
     - [x] Window controls
