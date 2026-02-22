@@ -42,6 +42,7 @@ Collection of Libraries that allow for webview usage on the desktop
 - [ ] Use Ilogger for logging - instead of just Console.WriteLine
 - [ ] Decide if I want to support chrome/no titlebar dragging, Custom Titlebar
 - [ ] SingleInstanceMode whilst being configurable
+- [ ] Toggle hardware acceleration for webview
 - [ ] Android/Ios Support?
 
 ### Get involved
