@@ -44,6 +44,8 @@ Collection of Libraries that allow for webview usage on the desktop
 - [ ] SingleInstanceMode whilst being configurable
 - [ ] Toggle hardware acceleration for webview
 - [ ] Android/Ios Support?
+- [ ] Clipboard support
+- [ ] Context menu support (webview or native)
 
 ### Get involved
 
