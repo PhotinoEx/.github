@@ -25,11 +25,11 @@ Collection of Libraries that allow for webview usage on the desktop
     - [x] Folder/File/Message opening
     - [x] Toast for system
     - [x] Application Icons
-- [ ] Windows support.
+- [x] Windows support.
     - [x] Window controls
     - [x] Webview controls
     - [x] Dark Mode
-    - [ ] OS automatic Dark Mode theming
+    - [x] OS automatic Dark Mode theming
     - [x] Folder/File/Message opening
     - [x] Application Icons
 - [ ] Mac support. (currently dont have an environment to test)
