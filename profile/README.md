@@ -4,6 +4,9 @@
   </picture>
 </p>
 
+### Notice
+Before developing this further, im waiting to see what and how avalonia's 12.0 release is like as they have finally Open Sourced and will include their WebView component, this *Should* mean a well known funded project with the ability for webview across all OS's and ability for BlazorWebView should happen too.
+
 Collection of Libraries that allow for webview usage on the desktop
 
 ### Repositories
